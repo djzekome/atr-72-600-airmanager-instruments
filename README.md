@@ -1,4 +1,4 @@
-# Asobo ATR 72-600 - AirManager instruments and panels 
+# Asobo ATR 72-600 - AirManager instruments and panels (MSFS)
 
 Download .siff file from [HERE](ATR_72_BARO_FGCP_PWRMGT.siff) and then import it in [AirManager](https://www.siminnovations.com/).  I made additional instruments to have an easier control of the plane in my cockpit setup - have necessary controls on touch screens for takeoffs and landings and minimize camera switching on main display during time-critical operations. 
 
